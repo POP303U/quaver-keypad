@@ -1,2 +1,2 @@
 # quaver-keypad
- my first keypad for rhythm games
+ open-source keypad for 4k rhythm games
