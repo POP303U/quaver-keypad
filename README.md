@@ -1,2 +1,2 @@
 # quaver-keypad
- open-source keypad for 4k rhythm games
+An open-source 4k keypad for quaver
