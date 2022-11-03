@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name quaver-keypadrev1-rescue)(type Legacy)(uri ${KIPRJMOD}/quaver-keypadrev1-rescue.lib)(options "")(descr ""))
+)

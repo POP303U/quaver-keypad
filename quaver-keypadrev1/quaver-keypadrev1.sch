@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:quaver-keypadrev1-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -327,7 +328,7 @@ D+
 Text GLabel 1575 3225 0    50   Input ~ 0
 D-
 $Comp
-L random-keyboard-parts:Molex-0548190589 USB1
+L quaver-keypadrev1-rescue:Molex-0548190589-random-keyboard-parts USB1
 U 1 1 5C3480A6
 P 4075 1575
 F 0 "USB1" V 4512 1494 60  0000 C CNN
@@ -467,7 +468,7 @@ Connection ~ 5175 2875
 Connection ~ 6125 2475
 Connection ~ 5475 2475
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L quaver-keypadrev1-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5D09B9B4
 P 5975 3250
 F 0 "MX4" H 6008 3473 60  0000 C CNN
@@ -478,7 +479,7 @@ F 3 "" H 5350 3225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L quaver-keypadrev1-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5D09AA2F
 P 5325 3250
 F 0 "MX3" H 5358 3473 60  0000 C CNN
@@ -491,7 +492,7 @@ $EndComp
 Wire Wire Line
 	6125 2475 6125 3200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L quaver-keypadrev1-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5D09A176
 P 5975 2525
 F 0 "MX2" H 6008 2748 60  0000 C CNN
@@ -504,7 +505,7 @@ $EndComp
 Wire Wire Line
 	5475 2475 5475 3200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L quaver-keypadrev1-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5D099790
 P 5325 2525
 F 0 "MX1" H 5358 2748 60  0000 C CNN
